@@ -4,3 +4,7 @@ It is designed to work on Windows/MacOS/Linux (Basically, if you use either cmd.
 It also comes with a precompiled EXE/BIN, for lazy users.
 The dad joke command does not work currently.
 If you have any issues, make an issue!
+Update: Fixed up my code:
+- Added Comments
+- Removed Warnings
+- Replaced the Linux Executable (Not yet done for Windows)
